@@ -1,0 +1,14 @@
+E:\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\thinojosa_inclass01\ConsoleApp1\obj\Debug\thinojosa_inclass01.csprojAssemblyReference.cache
+E:\thinojosa_inclass01\ConsoleApp1\obj\Debug\thinojosa_inclass01.csproj.CoreCompileInputs.cache
+E:\thinojosa_inclass01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\thinojosa_inclass01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\C#\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\C#\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\C#\thinojosa_inclass01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\C#\thinojosa_inclass01\ConsoleApp1\obj\Debug\thinojosa_inclass01.csprojAssemblyReference.cache
+E:\C#\thinojosa_inclass01\ConsoleApp1\obj\Debug\thinojosa_inclass01.csproj.CoreCompileInputs.cache
+E:\C#\thinojosa_inclass01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\C#\thinojosa_inclass01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
